@@ -9,3 +9,6 @@ PERSONAL DATASET README
 - Kills: Kills acquired during the 2023-2024 season. 
 - Blocks: Blocks acquired during the 2023-2024 season. 
 - Position: 1/Setter, 2/Rightside, 3/Middle, 4/Outside, 5/Libero
+- Errors: Cumulative errors during the 2023-2024 season.
+- Points: Points scored over the course of the 2023-2024 season.
+- Hitting Percentage: (kills-errors)/attempts
