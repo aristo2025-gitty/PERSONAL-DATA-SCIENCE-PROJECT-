@@ -1,5 +1,12 @@
 PERSONAL DATASET README
 
+Welcome to my personal dataset project for my Foundations of Data Science class at Vassar college. The goal of this project is to explore different relationships within the sport of volleyball, through the lens of our very own Vassar Men's Volleyball team (the 2023-2024 season). A few hypotheses: Certain positions will have much shorter average heights than others. Height may have a correlation with sets played or points. Older players will score more points. Let's see!
+
+
+
+
+
+Variable Codings:
 - Player#: Jersey number 
 - Height: Height in inches
 - Sets.Played: Sets played during the 2023-2024 season. 
